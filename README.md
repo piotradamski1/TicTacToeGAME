@@ -1,6 +1,6 @@
 # TicTacToeGAME
 <b>TicTacToe GAME made in JAVA</b></br>
-JAVA Maeven Console App </br></br>
+JAVA Maven Console App </br></br>
 Gameplay: </br>
 ![5](https://user-images.githubusercontent.com/122048598/226045257-6df29a44-ebe0-4805-8fd1-a26584310e40.png) </br></br>
 Wrong input: </br>
